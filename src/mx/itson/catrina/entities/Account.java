@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * La clase `Account` representa una cuenta bancaria y contiene información relacionada.
- * Se utiliza para inicializar variables y realizar operaciones relacionadas con cuentas.
+ * 
  * 
  * @author GibsCAT11
  */
